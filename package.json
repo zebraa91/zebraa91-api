@@ -1,6 +1,6 @@
 {
   "name": "zebraa91-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "ethers": "^6.11.1",
-    "express": "^4.18.3"
+    "express": "^4.18.3",
+    "zebraa91-dapp": "^1.0.0"
   },
   "repository": {
     "type": "git",
